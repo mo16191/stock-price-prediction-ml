@@ -22,4 +22,4 @@ Python, pandas, scikit-learn, TensorFlow/Keras (LSTM), yfinance, LIME, SHAP, mat
 
 ## Files
 - `stock_prediction.ipynb` — full analysis notebook: data collection through modelling and interpretation
-- `report.docx` — full written dissertation report covering methodology, results and conclusions in detail
+- `dissertation_report.pdf` — full written dissertation covering literature review, methodology, results, interpretation and conclusions in detail
